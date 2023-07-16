@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @prakash2670
 - 👀 I’m interested in Coding
-- C,C++,HTML,PHP,CSS ...
 - ..Present I am persuing my graduation @IIT Bhilai
 
 <!---
