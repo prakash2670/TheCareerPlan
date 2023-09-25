@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prakash2670
 - 👀 I’m interested in Coding
-- ..Present I am persuing my graduation @IIT Bhilai
+- ..Present I am pursuing my graduation @IIT Bhilai
 
 <!---
 prakash2670/prakash2670 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
