@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prakash2670
-- 👀 I’m interested in Coding
+- 👀 I code in C C++ HTML 
 - ..Present I am pursuing my graduation @IIT Bhilai
 
 <!---
